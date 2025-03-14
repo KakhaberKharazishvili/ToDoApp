@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Светлая тема -->
+    <style name="Theme.ToDoApp" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorSecondary">#03DAC5</item>
+        <item name="android:colorBackground">#F5F5F5</item> <!-- ✅ Исправленный вариант -->
+    </style>
+</resources>
