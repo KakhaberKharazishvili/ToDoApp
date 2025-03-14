@@ -53,7 +53,7 @@
 ## 🔧 **Как запустить проект**
 1️⃣ **Клонировать репозиторий**  
 ```sh
-git clone https://github.com/ТВОЙ_GITHUB/ToDoApp.git
+git clone https://github.com/KakhaberKharazishvili/ToDoApp.git
 ```
 2️⃣ **Открыть проект в `Android Studio`**  
 3️⃣ **Синхронизировать зависимости** (`Sync Project with Gradle Files`)  
@@ -80,6 +80,6 @@ git clone https://github.com/ТВОЙ_GITHUB/ToDoApp.git
 
 ---
 
-🔥 **Разработчик:** [ТВОЙ_GITHUB](https://github.com/ТВОЙ_GITHUB)  
+🔥 **Разработчик:** [KakhaberKharazishvili](https://github.com/KakhaberKharazishvili)  
 😺 **Если понравилось – ставь ⭐ и форкай проект!**
 
